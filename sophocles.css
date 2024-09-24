@@ -44,3 +44,28 @@ tbody tr:nth-child(even){
 tbody tr:hover{
     background-color: #add;
 }
+
+
+.neoptolemus{
+    transition: all 0.3s ease;
+}
+
+
+.neoptolemus:hover {
+    text-shadow: 2px 2px 5px rgba(255, 0, 0, 0.7); 
+    border: 2px solid #ffcc00; 
+    padding: 5px;
+}
+
+.philoctetes{
+    transition: all 0.3s ease;
+}
+
+
+.philoctetes:hover {
+    text-shadow: 2px 2px 5px rgba(255, 0, 0, 0.7); 
+    border: 2px solid #ffcc00; 
+    padding: 5px;
+}
+
+
