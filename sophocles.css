@@ -5,14 +5,14 @@
 }
 
 .direction{
-    font-family:"Courier New", monospace;
-    font-size: 17px;
+    font-family:"Arial", monospace;
+    font-size: 18px;
     color:black;
     background-color: lightyellow;
 }
 
 .direction:hover{
-    background-color: lightblue;
+    background-color: skyblue;
     color:darkblue;
 }
 
