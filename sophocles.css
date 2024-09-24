@@ -1,0 +1,25 @@
+.speech{
+    font-family:"Times New Roman", serif;
+    font-size:19px;
+    color:black;
+}
+
+.direction{
+    font-family:"Courier New", monospace;
+    font-size: 17px;
+    color:black;
+    background-color: lightyellow;
+}
+
+.direction:hover{
+    background-color: lightblue;
+    color:darkblue;
+}
+
+.neoptolemus{
+    color: green;
+}
+
+.philoctetes{
+    color:red;
+}
